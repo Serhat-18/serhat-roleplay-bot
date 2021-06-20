@@ -20,7 +20,7 @@ Destek : https://discord.gg/jmqkY55Ynw
 
 ![image](https://www.hizliresim.com/pijcfqk)
 
-![image](https://www.hizliresim.com/2cp1345)
+[image](https://www.hizliresim.com/2cp1345)
 
 ![image](https://www.hizliresim.com/1pblbe8)
 
