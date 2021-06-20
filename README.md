@@ -12,36 +12,36 @@ Configi tamamen editleyin aksi takdirde ufak hatalar olabilir
 Destek : https://discord.gg/jmqkY55Ynw
 
 
-[image](https://www.hizliresim.com/jl1hyy1)
+[gelen](https://www.hizliresim.com/jl1hyy1)
 
-[image](https://www.hizliresim.com/ql6a2tg)
+[giden](https://www.hizliresim.com/ql6a2tg)
 
-[image](https://www.hizliresim.com/ql6a2tg)
+[otorol](https://www.hizliresim.com/ql6a2tg)
 
-[image](https://www.hizliresim.com/pijcfqk)
+[düzenleme](https://www.hizliresim.com/pijcfqk)
 
-[image](https://www.hizliresim.com/2cp1345)
+[silme](https://www.hizliresim.com/2cp1345)
 
-[image](https://www.hizliresim.com/1pblbe8)
+[yetkisiz](https://www.hizliresim.com/1pblbe8)
 
-[image](https://www.hizliresim.com/l17dlah)
+[wl](https://www.hizliresim.com/l17dlah)
 
-[image](https://www.hizliresim.com/kw1k0gl)
+[wl-log](https://www.hizliresim.com/kw1k0gl)
 
-[image](https://www.hizliresim.com/7jbo76g)
+[aktif](https://www.hizliresim.com/7jbo76g)
 
-[image](https://www.hizliresim.com/fmptmcs)
+[bakım](https://www.hizliresim.com/fmptmcs)
 
-[image](https://www.hizliresim.com/5zetqic)
+[sil](https://www.hizliresim.com/5zetqic)
 
-![image](https://www.hizliresim.com/41gea2g)
+[yardım](https://www.hizliresim.com/41gea2g)
 
-![image](https://www.hizliresim.com/e48akw6)
+[ban](https://www.hizliresim.com/e48akw6)
 
-![image](https://www.hizliresim.com/59fru56)
+[ban-log](https://www.hizliresim.com/59fru56)
 
-![image](https://www.hizliresim.com/j2ibae1)
+[unban](https://www.hizliresim.com/j2ibae1)
 
-![image](https://www.hizliresim.com/ts2vn84)
+[unban-log](https://www.hizliresim.com/ts2vn84)
 
-![image](https://www.hizliresim.com/n7qqp7y)
+[config](https://www.hizliresim.com/n7qqp7y)
