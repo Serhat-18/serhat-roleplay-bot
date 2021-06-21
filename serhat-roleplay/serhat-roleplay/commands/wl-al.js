@@ -12,7 +12,7 @@ exports.run = async (client, message, args) => {
         await piece.roles.remove(config.whrol)
         await piece.roles.add(config.kayitsiz)
         client.channels.cache.get(config.kayitalmalog).send(new Discord.MessageEmbed()
-        .setTitle("Kayıt Yapıldı")
+        .setTitle("Wl Alındı")
         .setDescription(`\n Kaydı Alınan Kişi: ${piece}\n Kaydı Alan Yetkili: ${message.author}`)
         .setColor("#f00505")
         .setFooter(config.footer)
